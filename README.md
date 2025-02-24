@@ -7,6 +7,3 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I spin tracks as a bedroom DJ, strategize as a Yu-Gi-Oh card enthusiast, and game like it’s my job (because it kinda is).
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
